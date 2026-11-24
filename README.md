@@ -1,6 +1,8 @@
 # One-Line Robot Wedding Vows
 
 [![make.fun · u-kreutzx-one-line-robot-wedding-vows-a154ba4b](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b.svg)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
+[![make.fun · rank](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/nelsenwiliam/makefun-robot-wedding-vows/rank.svg)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
+[![make.fun · reward](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/nelsenwiliam/makefun-robot-wedding-vows/reward.svg)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
 
 A single line of wedding vows for a robot couple, written to get a laugh.
 Pure Python standard library, no dependencies.
